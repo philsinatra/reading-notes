@@ -7,6 +7,10 @@
     - [Superstars](#superstars)
     - [Owners](#owners)
   - [Two core abilities for thriving in the new economy](#two-core-abilities-for-thriving-in-the-new-economy)
+  - [Process-Centric Email](#process-centric-email)
+    - [Example 1](#example-1)
+    - [Example 2](#example-2)
+    - [Example 3](#example-3)
 
 ## Publication notes
 
@@ -39,4 +43,22 @@ Deep work helps you quickly learn hard things. Deliberate practice requires (1) 
 
 Scientists increasingly believe that myelin - a layer of fatty tissue that grows around neurons, acting like an insulator that allows cells to fire faster and cleaner is a biological key in the process of deep learning. You get better at a skill as you develop more myelin around the relevant neurons, allowing the corresponding circuit to fire more effortlessly and effectively.
 
-$$\ High\  Quality\ Work\ Produced = (Time\ Spent) * (Intensity\ of\ Focus)
+$$\ High\  Quality\ Work\ Produced = (Time\ Spent) * (Intensity\ of\ Focus)$$
+
+## Process-Centric Email
+
+### Example 1
+
+I'd love to grab coffee. Let's meet at the Starbucks on campus. Below I listed two days next week when I'm free. For each day, I listed three times. If any of those day and time combinations work for you, let me know. I'll consider your reply confirmation for the meeting. If none of those date and time combinations work, give me a call at the number below and we'll hash out a time that works. Looking forward to it.
+
+### Example 2
+
+I agree that we should return to this problem. Here's what I suggest...
+
+Sometime in the next week, e-mail me everything you remember about our discussion on the problem. Once I receive that message, I'll start a shared directory for the project and add to it a document that summarizes what you sent me, combined with my own memory of our past discussion. In the document, I'll highlight the two or three most promising next steps.
+
+We can then take a crack at those next steps for a few weeks and check back in. I suggest we schedule a phone call for a month from now for this purpose. Below I listed some dates and times when I'm available for a call. When you respond with your notes, indicate the date and time combination that works best for you and we'll consider that reply confirmation for the call. I look forward to digging into this problem.
+
+### Example 3
+
+Thanks for getting back to me. I'm going to read this draft of the article and send you back an edited version annotated with comments on Friday (the 10th). In this version I send back, I'll edit what I can do myself, and add comments to draw your attention to places where I think you're better suited to make the improvements. At that point, you should have what you need to polish and submit the final draft, so I'll leave you to do that - no need to reply to this message or follow up with me after I return the edits - unless, of course, there's an issue.
